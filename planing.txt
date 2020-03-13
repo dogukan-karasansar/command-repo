@@ -1,4 +1,4 @@
-Atakan Tuğsuz: 
-Doğukan Karasansar:
-Kadir Yazıcı:
-Arda Emen:
+Atakan Tuğsuz: Content Manager.
+Doğukan Karasansar: Backend and Frontend developer, Organizer.
+Kadir Yazıcı: Organizer
+Arda Emen: Testing Person
